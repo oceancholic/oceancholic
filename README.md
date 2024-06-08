@@ -12,7 +12,7 @@ Github should allow personalizing profile pages. It should be users responsibili
     background-size="cover"
     width="130vw"
     opacity="0.9"
-    background="url()">
+    background="url(https://raw.githubusercontent.com/kemalcem/kemalcem/main/bg_test.jpg)">
 </mmlToken>
 
 \mmlToken{ms}[fontfamily="
@@ -24,6 +24,7 @@ position: fixed;
 inset: 0;
 object-fit: cover;
 background-size: cover;
+background:url(https://raw.githubusercontent.com/kemalcem/kemalcem/main/bg_test.jpg);
 "]{}
 
 ```
