@@ -1,5 +1,7 @@
 Github should allow personalizing profile pages. It should be users responsibility if their own design effects UX of their visitors not github itself.
+
 ```math
+
 <mmlToken
     ms
     fontfamily="madebycubiquwu"
@@ -11,8 +13,7 @@ Github should allow personalizing profile pages. It should be users responsibili
     object-fit="cover"
     background-size="cover"
     width="130vw"
-    opacity="0.9"
-    background="url(https://raw.githubusercontent.com/kemalcem/kemalcem/main/bg_test.jpg)">
+    opacity="0.9">
 </mmlToken>
 
 \mmlToken{ms}[fontfamily="
