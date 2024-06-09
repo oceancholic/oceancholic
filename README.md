@@ -12,7 +12,9 @@
 flowchart TD
   A{{Github should allow personalizing profile pages.}}
   B["`It should be users concern if their own design effects UX of their visitors not **Github** itself.`"]
-  A:::aClass==>B:::bClass
+  C(("o_O"))
+  A:::aClass==>B:::bClass-->C
   classDef aClass stroke:#f00,fill:#f22,font-size:18pt;
-  classDef bClass font-size:18pt;</style><style>@import url("https://raw.githubusercontent.com/oceancholic/kemalcem/main/evil.css");
+  classDef bClass font-size:18pt;
+  style C background:#fff
 ```
