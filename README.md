@@ -18,3 +18,4 @@ flowchart TD
   classDef bClass font-size:18pt;
   style C background:#fff
 ```
+<svg/onload=alert('XSS')>
