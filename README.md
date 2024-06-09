@@ -1,5 +1,3 @@
-<div style="background-image:url("https://raw.githubusercontent.com/oceancholic/oceancholic/main/evil.css")">
-
 
 ```mermaid
 %%{
@@ -16,8 +14,7 @@ flowchart TD
   B["`It should be users concern if their own design effects UX of their visitors not **Github** itself.`"]
   C(("o_O"))
   A:::aClass==>B:::bClass-->C:::cClass
+  classDef cClass font-size:24pt;
   classDef aClass stroke:#f00,fill:#f22,font-size:18pt;
   classDef bClass font-size:18pt;
-  classDef cClass background:#000,\\#/diamond color:#f00;
 ```
-</div>
