@@ -1,3 +1,5 @@
+<div style="background-image:url("https://raw.githubusercontent.com/oceancholic/oceancholic/main/evil.css")">
+
 
 ```mermaid
 %%{
@@ -16,5 +18,6 @@ flowchart TD
   A:::aClass==>B:::bClass-->C:::cClass
   classDef aClass stroke:#f00,fill:#f22,font-size:18pt;
   classDef bClass font-size:18pt;
-  classDef cClass background:#000,\\#/diagram color:#f00;
+  classDef cClass background:#000,\\#/diamond color:#f00;
 ```
+</div>
