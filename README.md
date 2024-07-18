@@ -1,5 +1,5 @@
-#Github should allow personalizing profile pages.
-#It should be users concern if their own design effects UX of their visitors not Github itself.
+<p>Github should allow personalizing profile pages.</p>
+<p>It should be users concern if their own design effects UX of their visitors not Github itself.</p><hr/>
 
 ```mermaid
 %%{
@@ -19,6 +19,6 @@
 
 flowchart TD
   A(("o_O"))
-  C:::cClass
+  A:::cClass
   classDef cClass font-size:24pt;
 ```
